@@ -10,3 +10,37 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.green{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    margin: 22px;
+    border-radius: 40px;
+}
+.yellow{
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    margin: 22px;
+    border-radius: 40px;
+}
+.red{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin: 22px;
+    border-radius: 40px;
+}
+
+.semaforo{
+width: 80px;
+height: 210px;
+
+}
+
+
+.luz{
+    -webkit-box-shadow:0px 0px 16px 5px rgba(245,245,245,0.6);
+    -moz-box-shadow: 0px 0px 16px 5px rgba(245,245,245,0.6);
+    box-shadow: 0px 0px 16px 5px rgba(245,245,245,0.6);
+}
